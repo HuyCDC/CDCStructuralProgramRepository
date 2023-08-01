@@ -1,0 +1,63 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.root.export</Name>
+  <DisplayName>Export Module</DisplayName>
+  <Description>Install export module.</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="1676502" CompressedSize="536970" OS="Any"/>
+  <DownloadableArchives>Modules.7z</DownloadableArchives>
+  <SHA1>843a203470d5ae9dbcaaeb04b516fbb2fbc43e6f</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vendor.root.loads</Name>
+  <DisplayName>Loads Module</DisplayName>
+  <Description>Install loads module.</Description>
+  <Version>0.0.1</Version>
+  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="60395138" CompressedSize="17144957" OS="Any"/>
+  <DownloadableArchives>Modules.7z</DownloadableArchives>
+  <SHA1>abc1c4904b716822812bc4a2db762f3db4585b10</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vendor.root.others</Name>
+  <DisplayName>Others</DisplayName>
+  <Description>Đây là dòng số 1\n Đây là dòng số 2\n Đây là dòng số 3</Description>
+  <Version>0.0.2</Version>
+  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="40" CompressedSize="225" OS="Any"/>
+  <DownloadableArchives>Modules.7z</DownloadableArchives>
+  <SHA1>01263fc370f8199a3ff61962d9281193935f80eb</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vendor.root.programs</Name>
+  <DisplayName>Programs Module</DisplayName>
+  <Description>Install structural programs.</Description>
+  <Version>0.0.1</Version>
+  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="64576064" CompressedSize="18470141" OS="Any"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>8eb1f185449329636881b9bd8dfa13826a0cf115</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vendor.root.structural</Name>
+  <DisplayName>Structural Module</DisplayName>
+  <Description>Install structural module.</Description>
+  <Version>0.0.1</Version>
+  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="40" CompressedSize="238" OS="Any"/>
+  <DownloadableArchives>Modules.7z</DownloadableArchives>
+  <SHA1>a45bfa2eea06106c9e2a0c6af12afbe500fa77d8</SHA1>
+ </PackageUpdate>
+ <SHA1>a42d35e587b81a5b27fda449945dfd5ce9081623</SHA1>
+ <MetadataName>2023-08-01-1530_meta.7z</MetadataName>
+</Updates>
