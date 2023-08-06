@@ -2,18 +2,18 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>9c7bf9d895c6ab30cc710038ff5fe23b5b90d33a</SHA1>
- <MetadataName>2023-08-06-1644_meta.7z</MetadataName>
+ <SHA1>db95ae45a09c7b3faa707ebffeea9d21f3cdb874</SHA1>
+ <MetadataName>2023-08-06-1659_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.vendor.root.export</Name>
   <DisplayName>Export Module</DisplayName>
   <Description>Install export module.</Description>
-  <Version>0.0.3</Version>
+  <Version>0.0.4</Version>
   <ReleaseDate>2023-07-28</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="885450" OS="Any" CompressedSize="278763"/>
+  <UpdateFile CompressedSize="278777" UncompressedSize="885450" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>52ffda2b0dfcc445a38617ad2099368046b9afee</SHA1>
+  <SHA1>615fb9799aa502743efa1593fd31d5dbb2cabf6f</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.loads</Name>
@@ -22,9 +22,9 @@
   <Version>0.0.5</Version>
   <ReleaseDate>2023-07-28</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="65149970" OS="Any" CompressedSize="18599694"/>
+  <UpdateFile CompressedSize="18599875" UncompressedSize="65149970" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>93afdc557cd4c119a10582e9c25b0fa317c4132d</SHA1>
+  <SHA1>8d1eb4113e7fcf59d2571a256d86537ae54cbdc8</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.others</Name>
@@ -33,9 +33,9 @@
   <Version>0.0.2</Version>
   <ReleaseDate>2023-07-28</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="40" OS="Any" CompressedSize="224"/>
+  <UpdateFile CompressedSize="227" UncompressedSize="40" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>a97708ab07da399798beb45359039c85891eb3de</SHA1>
+  <SHA1>1316c5b4306315c3931da9329999fff1f289109a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.programs</Name>
@@ -45,9 +45,9 @@
   <ReleaseDate>2023-08-06</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="63626192" OS="Any" CompressedSize="18344727"/>
+  <UpdateFile CompressedSize="18330606" UncompressedSize="63626192" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>3bf094ad69870223deccc21fe23718231efec610</SHA1>
+  <SHA1>24b3f7ce96e498182543aa9e9cbd179c75c8eb8f</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.structural</Name>
@@ -56,8 +56,8 @@
   <Version>0.0.1</Version>
   <ReleaseDate>2023-07-28</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="40" OS="Any" CompressedSize="239"/>
+  <UpdateFile CompressedSize="239" UncompressedSize="40" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>eab267ea910d7067a723dc119c8828a3d732df46</SHA1>
+  <SHA1>d90d7bead78d4efa4c7dd837fdbddee86db149eb</SHA1>
  </PackageUpdate>
 </Updates>
