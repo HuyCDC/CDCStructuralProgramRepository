@@ -2,62 +2,62 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>b6714b3314350a9ad2d9731280ad934819075624</SHA1>
- <MetadataName>2023-08-06-2237_meta.7z</MetadataName>
+ <SHA1>d9d263e279395357a55b63d34d794916c3930bdd</SHA1>
+ <MetadataName>2023-08-07-0914_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.vendor.root.export</Name>
   <DisplayName>Export Module</DisplayName>
   <Description>Install export module.</Description>
-  <Version>0.0.8</Version>
-  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Version>2023.0.1</Version>
+  <ReleaseDate>2023-08-07</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="1148202" OS="Any" UncompressedSize="1824697"/>
+  <UpdateFile UncompressedSize="1555768" CompressedSize="462813" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>a059cf8e92fb9a8f965f623274c173e81a5ce074</SHA1>
+  <SHA1>805c245307ee2efe8cfc06cfdc92d135e5a5236a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.loads</Name>
   <DisplayName>Loads Module</DisplayName>
   <Description>Install loads module.</Description>
-  <Version>0.0.5</Version>
-  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Version>2023.0.1</Version>
+  <ReleaseDate>2023-08-07</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="18599869" OS="Any" UncompressedSize="65149970"/>
+  <UpdateFile UncompressedSize="67382290" CompressedSize="19017865" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>2d8bfbcfa9a63eddcbf725aac82d6d6f7c89ae1d</SHA1>
+  <SHA1>c99bbeecb8907de4cc450204950abeee1debdfec</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.others</Name>
   <DisplayName>Others</DisplayName>
-  <Description>Đây là dòng số 1\n Đây là dòng số 2\n Đây là dòng số 3</Description>
-  <Version>0.0.2</Version>
-  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Description>Thay đổi thông tin cá nhân</Description>
+  <Version>2023.0.1</Version>
+  <ReleaseDate>2023-08-07</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="40"/>
+  <UpdateFile UncompressedSize="40" CompressedSize="248" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>fec834e5e12852a9dab1e2609f8390de84583846</SHA1>
+  <SHA1>a34a038e1d3fdb6447e1d68612dac746fd22590c</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.programs</Name>
   <DisplayName>Programs Module</DisplayName>
   <Description>Install structural programs.</Description>
-  <Version>0.0.8</Version>
-  <ReleaseDate>2023-08-06</ReleaseDate>
+  <Version>2023.0.1</Version>
+  <ReleaseDate>2023-08-07</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="18330536" OS="Any" UncompressedSize="63626192"/>
+  <UpdateFile UncompressedSize="65560528" CompressedSize="18709831" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>8333c67648c310523c5487acf67fd41029ab1efa</SHA1>
+  <SHA1>39072d7c853e2d642456f0c3106d199911d868db</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vendor.root.structural</Name>
   <DisplayName>Structural Module</DisplayName>
   <Description>Install structural module.</Description>
-  <Version>0.0.1</Version>
-  <ReleaseDate>2023-07-28</ReleaseDate>
+  <Version>2023.0.1</Version>
+  <ReleaseDate>2023-08-07</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="239" OS="Any" UncompressedSize="40"/>
+  <UpdateFile UncompressedSize="40" CompressedSize="239" OS="Any"/>
   <DownloadableArchives>Modules.7z</DownloadableArchives>
-  <SHA1>8bebff3271a15ac7bb5519442abd6439878ad58a</SHA1>
+  <SHA1>78187ab24d144e0a84fab9202852ca65cbaee9b1</SHA1>
  </PackageUpdate>
 </Updates>
